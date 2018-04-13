@@ -1,8 +1,10 @@
 package com.vibexie.studyinjava;
 
 
+import com.vibexie.studyinjava.utils.Log;
+
 public class MainTest {
     public static void main(String args[]) {
-        System.out.println("Learning algorithms, Let's go!");
+        Log.p("Learning algorithms, %s", "Let's go!");
     }
 }
