@@ -1,1 +1,2 @@
 # StudyInJava
+本项目使用Java语言进行编程学习
